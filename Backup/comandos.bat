@@ -1,0 +1,17 @@
+yarn add @expo/webpack-config
+yarn add @fortawesome/fontawesome-svg-core
+yarn add @fortawesome/free-brands-svg-icons
+yarn add @fortawesome/free-solid-svg-icons
+yarn add @fortawesome/react-fontawesome
+yarn add @react-navigation/bottom-tabs
+yarn add @react-navigation/native
+yarn add @react-navigation/native-stack
+yarn add @react-navigation/stack
+yarn add firebase
+yarn add react-firebase-hooks
+yarn add react-native-safe-area-context
+yarn add react-native-screens
+yarn add react-native-web
+yarn add react-navigation
+yarn add react-router-native
+yarn add sharp-cli
